@@ -6,5 +6,5 @@ link para o curso [python pro] (https://pythonpro.com.br/)
 Tópicos a serem abordados:
 1. git
 2. virtualenv
-
-
+.pip
+.topico
